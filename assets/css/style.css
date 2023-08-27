@@ -76,25 +76,22 @@ header {
 /*Main----Main----Main----*/
 /*image*/
 #image {
+  background-color: #c0f0c0;
   height: 400px;
   width: 100%;
   background: url();
 }
 /*sizeguide*/
 #sizeguide {
-  background-color: springgreen;
+  background-color: #c0d0e0;
 }
-/*safeuse*/
-#safeuse {
-  background-color: lightblue;
+/*safety*/
+#safety {
+  background-color: #c0f0c0;
 }
 /*faq*/
 #faq {
-  background-color: aquamarine;
-}
-/*competion*/
-#competition {
-  background-color: lightblue;
+  background-color: #c0d0e0;
 }
 /*footer*/
 footer {
