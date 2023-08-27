@@ -1,28 +1,35 @@
+/*asterisk added widcard to override browser default setting*/
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
 /*header*/
-.header {
+header {
   background-color: indigo;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
 }
 /*image*/
-.image {
+#image {
   background-color: rgb(197, 238, 197);
 }
 /*sizeguide*/
-.sizeguide {
+#sizeguide {
   background-color: springgreen;
 }
 /*safeuse*/
-.safeuse {
+#safeuse {
   background-color: lightblue;
 }
 /*faq*/
-.faq {
+#faq {
   background-color: aquamarine;
 }
 /*competion*/
-.competition {
+#competition {
   background-color: lightblue;
 }
 /*footer*/
-.footer {
+footer {
   background-color: forestgreen;
 }
