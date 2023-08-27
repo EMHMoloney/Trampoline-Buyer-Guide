@@ -1,4 +1,4 @@
-/*asterisk added widcard to override browser default setting*/
+/*asterisk added wildcard to override browser default setting*/
 * {
   padding: 0;
   margin: 0;
@@ -21,6 +21,10 @@ main {
 /*header*/
 header {
   background-color: indigo;
+}
+h1 {
+  font-family: "Roboto", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  color: white;
 }
 /*image*/
 #image {
