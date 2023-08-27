@@ -98,13 +98,12 @@ header {
 }
 /*footer*/
 footer {
-  background-color: #172627;
-  font: "Roboto" #fafafc;
+  background-color: #2863a0; /*check same as header*/
+  color: antiquewhite;
+  padding: 20px 0; /*check re social botton sizes*/
 }
 /*footer socials styling*/
 .footer-content {
-  background-color: rgb(247, 252, 252);
-  padding: 15px;
   text-align: center;
 }
 .socials-icons {
