@@ -4,6 +4,14 @@
   margin: 0;
   box-sizing: border-box;
 }
+body {
+  /*default styling for body*/
+  min-height: 100vh;
+  color: gainsboro;
+  /*add flexbox styling*/
+  display: flex;
+  flex-direction: column;
+}
 /*header*/
 header {
   background-color: indigo;
