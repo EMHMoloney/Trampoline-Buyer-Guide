@@ -1,27 +1,28 @@
+/*header*/
 .header {
-    background-color: indigo
+  background-color: indigo;
 }
-
+/*image*/
 .image {
-    background-color: rgb(197, 238, 197);
+  background-color: rgb(197, 238, 197);
 }
-
+/*sizeguide*/
 .sizeguide {
-    background-color: springgreen;
+  background-color: springgreen;
 }
-
+/*safeuse*/
 .safeuse {
-    background-color: lightblue;
+  background-color: lightblue;
 }
-
+/*faq*/
 .faq {
-    background-color: aquamarine;
+  background-color: aquamarine;
 }
-
+/*competion*/
 .competition {
-    background-color: lightblue;
+  background-color: lightblue;
 }
-
+/*footer*/
 .footer {
-    background-color: forestgreen;
+  background-color: forestgreen;
 }
