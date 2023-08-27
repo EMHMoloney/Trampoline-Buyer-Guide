@@ -20,11 +20,11 @@ main {
 }
 /*header*/
 header {
-  background-color: indigo;
+  background-color: #172627;
 }
 h1 {
   font-family: "Roboto", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-  color: white;
+  color: #fafafc;
 }
 /*image*/
 #image {
@@ -48,5 +48,6 @@ h1 {
 }
 /*footer*/
 footer {
-  background-color: forestgreen;
+  background-color: #172627;
+  font: "Roboto" #fafafc;
 }
