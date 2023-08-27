@@ -20,7 +20,13 @@ main {
 }
 /*header*/
 header {
-  background-color: #172627;
+  background-color: rgb(113, 252, 252);
+  font: "Roboto" rgb(15, 15, 131);
+  padding: 0 1rem;
+  position: fixed;
+  z-index: 99;
+  width: 100%;
+  box-shadow: 2px 3px 3px rgb(150, 146, 146);
 }
 h1 {
   font-family: "Roboto", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
