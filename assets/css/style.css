@@ -12,6 +12,11 @@ body {
   display: flex;
   flex-direction: column;
 }
+/*main*/
+main {
+  background-color: antiquewhite;
+  flex: 1 0 auto;
+}
 /*header*/
 header {
   background-color: indigo;
