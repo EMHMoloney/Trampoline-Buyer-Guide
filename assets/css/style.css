@@ -71,10 +71,10 @@ header {
 /*Main----Main----Main----*/
 /*image*/
 #image {
-  background-color: #c0f0c0;
   height: 400px;
-  width: 100%;
-  background: url();
+  width: 96%;
+  border-radius: 8px;
+  justify-content: center;
 }
 /*sizeguide*/
 #sizeguide {
