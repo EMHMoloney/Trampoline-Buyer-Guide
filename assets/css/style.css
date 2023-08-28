@@ -13,9 +13,10 @@ body {
 }
 
 /*header*/
-header {
+#header {
   background-color: #2863a0;
-  color: antiquewhite;
+  color: gainsboro;
+  text-decoration: none;
   padding: 10px 0;
   width: 100%;
   box-shadow: 2px 3px 3px rgb(150, 146, 146);
@@ -26,10 +27,13 @@ header {
   display: flex;
   padding: 0 15px;
   justify-content: space-between;
+  color: gainsboro;
+  text-decoration: none;
+  text-transform: uppercase;
 }
 
 /*navbarstyle*/
-.title {
+.navtitle {
   font-size: 110%;
   font-weight: bold;
   text-transform: uppercase;
@@ -42,11 +46,11 @@ header {
 /*drop down menu*/
 .dropdown {
   background-color: transparent; /*check if not same as bground*/
-  color: antiquewhite; /*check blends not in background?*/
+  color: gainsboro; /*check blends not in background?*/
   border: none;
   font-size: 16px;
   cursor: pointer;
-  padding-right: 30%;
+  padding-right: 40%;
 }
 /*links in dropdown*/
 .dropdown-links {
@@ -113,7 +117,7 @@ td {
 }
 /*sizeguide*/
 #sizeguide {
-  background-color: gainsboro;
+  background-color: azure;
 }
 /*safety*/
 .safety-headline {
@@ -124,15 +128,15 @@ td {
   text-indent: 5%;
 }
 #safety {
-  background-color: #c0f0c0;
+  background-color: white;
 }
 /*faq*/
 #faq {
-  background-color: gainsboro;
+  background-color: azure;
 }
 .faq-section {
   max-width: 600px;
-  margin: 0 auto;
+  margin: 0;
   padding: 10px;
 }
 .faq-question {
@@ -148,7 +152,7 @@ td {
 /*footer*/
 footer {
   background-color: #2863a0; /*check same as header*/
-  color: antiquewhite;
+  color: gainsboro;
   padding: 20px 0; /*check re social botton sizes*/
 }
 /*footer socials styling*/
