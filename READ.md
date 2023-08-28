@@ -20,7 +20,7 @@ Resonsiveness of the site is not up to my standards, it is quite week. The image
 
 I had planned 10 features in the site as outlined in the wireframe.
 I acieved 8 running well, with 2 edited out due to my time constraints.
-The "submit" does not post to a separate formdump, or give feedback. This are not bugs and I know with some more time I could have been brought them up to standard- this is the big "take away" for me from this project.
+The "submit" does not post to a separate form dump, or give feedback. These are not bugs and I know with some more time I could have been brought them up to standard- this is the big "take away" for me from this project.
 
 ### Font/Colours
 
@@ -32,10 +32,9 @@ Colors were chosen for high contrast rating and to define the sections of the si
 The rating of 94% was achieved through [Accessibility.org](accessibility-validation.png)
 Points were lost for labelling on form input fields, but when the labels were adjusted W3C validation flagged them, so I settled for the score presented.
 
-#### deployment guide
+#### deployment
 Deployment is through Github, in the pages section of the Code and analysis section. From thhere selct main branch/root folder deployment.
 After some time ,the deployed project will be linked in the Environments section. The live version can be accessed form that link.
-
 
 #### Credits
 
