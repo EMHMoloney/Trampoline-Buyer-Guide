@@ -71,10 +71,10 @@ header {
 /*Main----Main----Main----*/
 /*image*/
 #image {
-  height: 400px;
-  width: 96%;
   border-radius: 8px;
   justify-content: center;
+  height: 15rem;
+  overflow: hidden;
 }
 /*sizeguide*/
 #sizeguide {
