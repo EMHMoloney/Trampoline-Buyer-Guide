@@ -46,6 +46,7 @@ header {
   border: none;
   font-size: 16px;
   cursor: pointer;
+  padding-right: 30%;
 }
 /*links in dropdown*/
 .dropdown-links {
@@ -137,7 +138,7 @@ footer {
 }
 /*media queries(source love running)*/
 @media screen and (min-width: 768px) {
-  nav {
+  #navbar {
     display: block;
     position: relative;
     box-shadow: none;
