@@ -87,13 +87,16 @@ image-container {
 /*Table------Table*/
 table {
   width: 80%;
+  max-width: 700px;
+  margin: 0 auto;
+  border: 2px double navy;
 }
 tr {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
 }
 th {
-  font-weight: bolder;
+  font-weight: bold;
   text-align: center;
 }
 tr,
@@ -102,7 +105,7 @@ td {
 }
 th,
 td {
-  border: 2px solid Navy;
+  border: 1px solid Navy;
   padding: 6px;
 }
 /*sizeguide*/
