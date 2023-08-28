@@ -71,10 +71,38 @@ header {
 /*Main----Main----Main----*/
 /*image*/
 #image {
+  width: 60%;
   border-radius: 8px;
-  justify-content: center;
+  justify-content: left;
   height: 15rem;
   overflow: hidden;
+  padding-left: 5%;
+}
+image-container {
+  height: 200px;
+  width: 100%;
+  overflow: hidden;
+}
+/*Table------Table*/
+table {
+  width: 80%;
+}
+tr {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+th {
+  font-weight: bolder;
+  text-align: center;
+}
+tr,
+td {
+  text-align: left;
+}
+th,
+td {
+  border: 2px solid Navy;
+  padding: 6px;
 }
 /*sizeguide*/
 #sizeguide {
