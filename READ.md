@@ -1,6 +1,6 @@
 # The Trampoline Buyers Guide
 
-The site has deployed through github, it can be viewed [here](https://emhmoloney.github.io/Trampoline-Buyers-Guide/)
+The site has deployed through github, it can be viewed [here](https://emhmoloney.github.io/Trampoline-Buyer-Guide/)
 
 ## Planning and Value Creation
 
