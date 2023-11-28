@@ -29,10 +29,11 @@ Colors were chosen for high contrast rating and to define the sections of the si
 
 ### Acessibility
 
-The rating of 94% was achieved through [Accessibility.org](accessibility-validation.png)
+The rating of 94% was achieved through [ACCESSIBILITY test]
 Points were lost for labelling on form input fields, but when the labels were adjusted W3C validation flagged them, so I settled for the score presented.
 
-#### deployment
+#### Deployment
+
 Deployment is through Github, in the pages section of the Code and analysis section. From thhere selct main branch/root folder deployment.
 After some time ,the deployed project will be linked in the Environments section. The live version can be accessed form that link.
 
