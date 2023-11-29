@@ -88,12 +88,14 @@ body {
 
 #image-container {
   height: 200px;
-  width: 100%;
+  width: 40%;
   overflow: hidden;
+  margin-bottom: 10px;
 }
 /*Table------Table*/
 #sizeguide {
   text-indent: 5%;
+  margin-top: 10px;
 }
 table {
   width: 80%;
