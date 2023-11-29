@@ -51,7 +51,6 @@ body {
   border: none;
   font-size: 16px;
   cursor: pointer;
-  padding-right: 40%;
   position:relative;
 }
 /*links in dropdown*/
@@ -63,7 +62,7 @@ body {
   box-shadow: 2px 3px 3px rgb(0, 0, 0, 0.26); 
   z-index: 1;
   top:100%;
-  right: 0;
+  left: 0;
 }
 /*dropdown wording*/
 .dropdown-links a {
@@ -80,7 +79,7 @@ body {
 /*Main----Main----Main----*/
 /*image*/
 #image {
-  width: 100%;
+  width: 50%;
   height: auto;
   object-fit: cover;
   max-height: 400px;
