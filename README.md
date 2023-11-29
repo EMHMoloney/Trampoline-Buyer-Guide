@@ -30,12 +30,13 @@ of trampoline use. This guide should show the potential benefits of increased mo
 - **Competion Form** - Expected: The form should validate the user input
 - and submit the data to an external site. Result: After testing with valid and invalid inputs,
 - the form performs as expected.
--
+- **Dropdown Menu** - Expected-move navigation to page area indicated.
+- Result: moves pagearea requested to the middle of view.
 
 ### Acessibility
 
-The rating of 94% was achieved through [ACCESSIBILITY test]
-Points were lost for labelling on form input fields, but when the labels were adjusted W3C validation flagged them, so I settled for the score presented.
+The rating of 95% was achieved through []
+
 
 #### Deployment
 
@@ -44,7 +45,7 @@ After some time ,the deployed project will be linked in the Environments section
 
 #### Credits
 
-I used the favicon and text from the Love Running source code as my operating sysytem had issues running any others I tried to import- same as the the font issue outlined above.
+I used the favicon and text from the Love Running project[codeinstiute.net/ie/]- same as the the font issue outlined above.
 Image used is from Pexels.
-Color combination was sourced from Coolors.co, as I could assess it for high contrast rating there.
+Color combination was sourced from [coolors.co]
 Social Media icons are imported from Iconmnstr.com.

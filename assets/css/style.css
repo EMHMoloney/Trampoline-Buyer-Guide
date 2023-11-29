@@ -90,12 +90,13 @@ body {
   height: 200px;
   width: 40%;
   overflow: hidden;
-  margin-bottom: 10px;
+  margin-bottom: 5px;
+  margin-top: 0;
 }
 /*Table------Table*/
 #sizeguide {
   text-indent: 5%;
-  margin-top: 10px;
+  margin-top: 5px;
 }
 table {
   width: 80%;
