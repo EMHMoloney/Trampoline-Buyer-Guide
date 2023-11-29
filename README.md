@@ -31,7 +31,7 @@ of trampoline use. This guide should show the potential benefits of increased mo
 - and submit the data to an external site. Result: After testing with valid and invalid inputs,
 - the form performs as expected.
 - **Dropdown Menu** - Expected-move navigation to page area indicated.
-- Result: moves pagearea requested to the middle of view.
+- Result: moves page area requested to the middle of view.
 
 ### Acessibility
 
@@ -40,8 +40,8 @@ The rating of 95% was achieved through []
 
 #### Deployment
 
-Deployment is through Github, in the pages section of the Code and analysis section. From thhere selct main branch/root folder deployment.
-After some time ,the deployed project will be linked in the Environments section. The live version can be accessed form that link.
+Deployment is through Github, in the pages section of the Code and analysis section. From there selct main branch/root folder deployment.
+The deployed project will be linked in the Environments section.
 
 #### Credits
 
