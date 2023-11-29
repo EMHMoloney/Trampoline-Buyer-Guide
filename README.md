@@ -1,31 +1,36 @@
 # The Trampoline Buyers Guide
 
-The site has deployed through github, it can be viewed [here](https://emhmoloney.github.io/Trampoline-Buyer-Guide/)
+The Trampoline Buyer's guide is a web application desingned to help
+buyers choose the best trampoline to suit their needs.
+It can be viewed [here](https://emhmoloney.github.io/Trampoline-Buyer-Guide/)
 
-## Planning and Value Creation
+## Value to User
 
-This site is aimed at those looking to buy a trampoline for home use.
-It was developed on a "Mobile First" basis, with imperitive technical and safety information prioritised, leading to more general considerations, then a competion draw to add an engaging fun element.
-The owner of the site could be a retailer/distributor/club/installer, or any number of persona who would gain value by establishing themselves as an authority in the field, and/or gaining potential additions to email lists through the competition.
-The user can find value in the site through feeling more informed when making their purchase-I am assuming from the title that they have already decided to buy one, or are seriously considering it, and going about research before they do. They can work from the top down -from a size guide to narrow down thier choice,addition safety considerations to take into account when buying, a FAQ section for points they may or may not have considered, then a chance to win a trampoline outright.
-The original [apologies-hand drawn] wireframe can be viewed [here](Wireframe-Trampoline-buyers-guide.png)
+As a **potential trampoline buyer**, I want authoritave, comprehensive and up to date data
+to make an informed purchase decision. This guide should provide a breakdown of size and shape types for
+different users and locations.
 
-## Validation and Testing
+As a **parent**, I want to ensure the safe use of a trampoline for my family. This guide should provide
+safety tips and suggest the best sizes of tempolone based on the age of the children using it.
 
-The HTML was validated through WC3, which threw up a few stray elements, but it is now clear bar one bug which is visible in the [report] (w3c-validation.png) bu
-The CSS was validated through Jigsaw, and came up error free in the [report](jigsaw-validation.png)
-Resonsiveness of the site is not up to my standards, it is quite week. The image and menu are especially poor as I allowed myself to run out of time to dig deeper and sort them as I know I can. Outside of running through previews in IDE, the screen viewers in DevTools and checking the deployed version, I didnt run it through a validator as I ran out of time to correct it, add enough media queries, and check them.
+As a **consumer looking for an alternative exercise activity**, I want to know any potential health benefits
+of trampoline use. This guide should show the potential benefits of increased mobility, flexibility and enjoyment.
 
 ## Features
 
-I had planned 10 features in the site as outlined in the wireframe.
-I acieved 8 running well, with 2 edited out due to my time constraints.
-The "submit" does not post to a separate form dump, or give feedback. These are not bugs and I know with some more time I could have been brought them up to standard- this is the big "take away" for me from this project.
+- Size guide in table format for different users by age group.
+- Safety information and guidelines for safe enjoyment.
+- Frequently Asked Questions **FAQ** section to address common concerns.
+- A chance to win a trampoline in a competion.
 
-### Font/Colours
+## Testing
 
-A browser font had to be used, which was not my first choice. I was unable to import a Google font to the IDE. I kept recieving error messages about "parallel loading" and on reasearching the problem discovered it was to do with the system I'm operating with, so had to make do with a sans-serif font from the broswer.
-Colors were chosen for high contrast rating and to define the sections of the site.
+### Features
+
+- **Competion Form** - Expected: The form should validate the user input
+- and submit the data to an external site. Result: After testing with valid and invalid inputs,
+- the form performs as expected.
+-
 
 ### Acessibility
 

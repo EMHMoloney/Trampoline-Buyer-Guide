@@ -14,13 +14,14 @@ body {
 
 /*header*/
 #header {
+  position:fixed;
   background-color: #2863a0;
   color: gainsboro;
   text-decoration: none;
   padding: 10px 0;
   width: 100%;
   box-shadow: 2px 3px 3px rgb(150, 146, 146);
-  flex-direction: row;
+  z-index:1000;
 }
 /*header text*/
 .navbar {
@@ -60,6 +61,7 @@ body {
   min-width: 160px;
   box-shadow: 2px 3px 3px rgb(0, 0, 0, 0.26); /* check grey transparent ?*/
   z-index: 1;
+  right:0;
 }
 /*dropdown wording*/
 .dropdown-links a {
@@ -76,13 +78,12 @@ body {
 /*Main----Main----Main----*/
 /*image*/
 #image {
-  width: 60%;
-  border-radius: 8px;
-  justify-content: left;
-  height: 15rem;
-  overflow: hidden;
-  padding-left: 5%;
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  max-height: 400px;
 }
+
 #image-container {
   height: 200px;
   width: 100%;
@@ -170,6 +171,15 @@ footer {
 }
 /*media queries(source love running)*/
 @media screen and (min-width: 768px) {
+  #image-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  #image{
+    max-height:none;
+  }
   #navbar {
     display: block;
     position: relative;
